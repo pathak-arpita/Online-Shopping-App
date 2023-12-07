@@ -1,0 +1,28 @@
+.thankyou-page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.tnakyou-image{
+    height: 20%;
+    width: 20%;
+    margin-top: -30px;
+}
+.thankyou-btn{
+  border: 1px solid #f83496;
+  border-radius: 4px;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 14.5px 35px;
+  color: #f83496;
+  background-color: #fff;
+  cursor: pointer;
+}
+.thankyou-heading{
+  font-weight: 800;
+  font-size: 20px;
+  color: #f83496;
+  padding: 40px;
+  margin-top: 10px;
+}
